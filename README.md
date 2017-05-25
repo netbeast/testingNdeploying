@@ -7,5 +7,5 @@ Testing introduction and deploy automation using Travis-CI, DockerHub, DockerClo
 Used:
 - Express.js [server]
 - mocha & chai [tests]
-- Gulp.js  [taks runner]
+- Gulp.js  [tasks runner]
 - Travis-CI [Continuos Integration]
